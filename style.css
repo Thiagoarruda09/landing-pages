@@ -10,6 +10,7 @@
 @media(max-width:800px) {
     .retirar {
         display: none;
+        
     }
 }
 
@@ -123,12 +124,13 @@ input:focus {
     justify-content: space-around;
     margin-top: 30px;
     padding-top: 30px;
-    padding-bottom: 30px;
+   
 }
 
 .fundo02>article {
     width: 300px;
 }
+
 
 
 .fundo03 {
@@ -137,7 +139,7 @@ input:focus {
     flex-wrap: nowrap;
     justify-content: space-around;
     margin-top: 30px;
-    padding-top: 30px;
+  
     background-color: rgba(222, 184, 135, 0.664);
     margin: 0px;
     padding-bottom: 30px;
